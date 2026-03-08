@@ -1,28 +1,31 @@
 
-# AASHIF-MD WhatsApp Bot
+# AASHIF-MD Pair Code Bot
 
-Basic WhatsApp MD bot using Baileys.
+This bot generates a WhatsApp pairing code from a web link.
 
-## Features
-- Menu system
-- AI chat command
-- YouTube song fetch
-- Ping command
+## Deploy
 
-## Environment variables (Heroku)
-BOT_NAME=AASHIF-MD
-OWNER_NUMBER=947XXXXXXXX
+1 Upload files to GitHub
 
-## Deploy to Heroku
-1. Upload this repo to GitHub.
-2. Go to Heroku.
-3. Create new app.
-4. Connect GitHub repo.
-5. Deploy.
-6. Open logs to scan QR code and pair WhatsApp.
+2 Deploy to:
+- Heroku
+- Railway
+- Render
 
-Commands:
-.menu
-.ai hello
-.song <youtube link>
-.ping
+## Usage
+
+Open your deployed link:
+
+https://yourapp.com
+
+Enter WhatsApp number with country code:
+
+947XXXXXXXX
+
+It will generate a pairing code.
+
+Then in WhatsApp:
+
+Linked Devices → Link with phone number → enter code.
+
+Session will save automatically.
