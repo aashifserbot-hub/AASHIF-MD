@@ -4,7 +4,7 @@ AASHIF-MD WhatsApp Bot
   <h1 align="center">AASHIF-MD</h1>
   <p align="center">A powerful WhatsApp Multi-Device bot built using Baileys.</p>
 </p><p align="center">
-  <img src="https://i.imgur.com/NpA3ZsJ.jpeg" width="300"/>
+  <img src="https://i.ibb.co/xqtTS4B5/Lte4-Pl-Nbqa.jpg" width="300"/>
 </p>---
 
 Deploy
