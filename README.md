@@ -1,31 +1,98 @@
+AASHIF-MD WhatsApp Bot
 
-# AASHIF-MD Pair Code Bot
+<p align="center">
+  <h1 align="center">AASHIF-MD</h1>
+  <p align="center">A powerful WhatsApp Multi-Device bot built using Baileys.</p>
+</p><p align="center">
+  <img src="https://i.imgur.com/NpA3ZsJ.jpeg" width="300"/>
+</p>---
 
-This bot generates a WhatsApp pairing code from a web link.
+Deploy
 
-## Deploy
+1. Upload files to GitHub repository
 
-1 Upload files to GitHub
+2. Deploy to one of the platforms below:
 
-2 Deploy to:
 - Heroku
 - Railway
 - Render
+- Replit
 
-## Usage
+---
 
-Open your deployed link:
+Pair Code
 
-https://yourapp.com
+Get Session ID by using:
+
+- Pairing Code
+- QR Scan
+
+Open your deployed bot link:
+
+https://your-bot-name.herokuapp.com
 
 Enter WhatsApp number with country code:
 
 947XXXXXXXX
 
-It will generate a pairing code.
+Then open WhatsApp:
 
-Then in WhatsApp:
-
-Linked Devices → Link with phone number → enter code.
+Linked Devices → Link with phone number → Enter code.
 
 Session will save automatically.
+
+---
+
+Deploy Buttons
+
+Deploy to Heroku
+
+https://dashboard.heroku.com/new?template=https://github.com/yourusername/AASHIF-MD
+
+Deploy to Railway
+
+https://railway.app/new
+
+Deploy to Render
+
+https://render.com
+
+---
+
+Bot Features
+
+- AI Chat
+- Song Downloader
+- Game Menu
+- Group Management
+- Photo Editing Commands
+- Auto Status View
+- Auto React
+- Anti View Once
+- Many More Commands
+
+---
+
+Commands Menu
+
+.menu
+.ai
+.play
+.yt
+.game
+.group
+.owner
+
+---
+
+Warning
+
+- This bot is not made by WhatsApp.
+- Using bots may risk your account.
+- Use at your own responsibility.
+
+---
+
+Credits
+
+Developer: AASHIF-MD
