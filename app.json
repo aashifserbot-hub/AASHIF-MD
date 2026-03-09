@@ -1,0 +1,9 @@
+{
+  "name": "aashif-md-bot",
+  "env": {
+    "BOT_NAME": "AASHIF-MD",
+    "PREFIX": ".",
+    "OPENAI_KEY": "",
+    "OMDB_KEY": ""
+  }
+}
