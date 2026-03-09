@@ -1,12 +1,15 @@
 {
-  "name": "aashif-md-bot",
+  "name": "aashif-md-v1",
   "version": "1.0.0",
-  "description": "WhatsApp Pair Code Bot",
-  "main": "server.js",
+  "description": "Multi-bot with GPT friendly chat",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "whatsapp-web.js": "^1.21.0",
+    "qrcode-terminal": "^0.12.0",
+    "dotenv": "^16.0.3",
+    "axios": "^1.6.4"
   }
 }
