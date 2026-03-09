@@ -1,15 +1,16 @@
+
 {
-  "name": "aashif-md-v1",
+  "name": "aashif-md-bot",
   "version": "1.0.0",
-  "description": "Multi-bot with GPT friendly chat",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "whatsapp-web.js": "^1.21.0",
+    "whatsapp-web.js": "^1.21.1",
     "qrcode-terminal": "^0.12.0",
-    "dotenv": "^16.0.3",
-    "axios": "^1.6.4"
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.28.0"
   }
 }
