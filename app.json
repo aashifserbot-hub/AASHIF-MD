@@ -1,9 +1,37 @@
 {
-  "name": "aashif-md-bot",
+  "name": "AASHIF-MD",
+  "description": "WhatsApp Bot Multi Device",
+  "keywords": ["nodejs", "bot"],
   "env": {
-    "BOT_NAME": "AASHIF-MD",
-    "PREFIX": ".",
-    "OPENAI_KEY": "",
-    "OMDB_KEY": ""
-  }
+    "SESSION_ID": {
+      "description": "Put your WhatsApp session ID",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "Bot name",
+      "value": "AASHIF-MD"
+    },
+    "PREFIX": {
+      "description": "Command prefix",
+      "value": "."
+    },
+    "OMDB_KEY": {
+      "description": "OMDB API Key (optional)",
+      "required": false
+    },
+    "OPENAI_KEY": {
+      "description": "OpenAI API Key (optional)",
+      "required": false
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
 }
