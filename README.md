@@ -16,15 +16,11 @@ PAIR SIDE
     <img src="https://img.shields.io/badge/Get%20Session-Click%20Here-blue?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
+## 🚀 DEPLOY NOW
 
- DEPLOY WITH
 <p align="center">
   <a href="https://heroku.com/deploy?template=https://github.com/aashifserbot-hub/AASHIF-MD">
-    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+    <img src="https://img.shields.io/badge/DEPLOY%20NOW-HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
 </p>
-<p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/aashifserbot-hub/AASHIF-MD">
-    <img src="https://img.shields.io/badge/Deploy%20to-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
-  </a>
-</p>
+ 
