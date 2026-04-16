@@ -17,7 +17,7 @@ PAIR SIDE
   </a>
 </p>
 
-## 🚀 Get Session
+## 🚀 DEPLOY BOT
 <p align="center">
   <a href="https://heroku.com/deploy?template=https://github.com/aashifserbot-hub/AASHIF-MD">
     <img src="https://img.shields.io/badge/DEPLOY%20NOW-HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
