@@ -6,7 +6,16 @@
 3. Run `npm install`
 4. Run `npm start`
 5. Prefix for bot commands is configurable in `.env` (default `.`)
+
+
 PAIR SIDE
+## 🔑 Get Session
+
+<p align="center">
+  <a href="https://your-session-site.vercel.app">
+    <img src="https://img.shields.io/badge/Get%20Session-Click%20Here-blue?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</p>
 
  DEPLOY WITH
 <p align="center">
